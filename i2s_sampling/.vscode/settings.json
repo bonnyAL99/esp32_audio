@@ -12,5 +12,6 @@
         "*.tcc": "cpp",
         "bitset": "cpp",
         "cstdlib": "cpp"
-    }
+    },
+    "idf.portWin": "COM5"
 }
